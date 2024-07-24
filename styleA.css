@@ -37,6 +37,5 @@ body {
 .box:last-child {
     background-color: #687291;
     border: 4px solid black;
-    line-height: 92px; /*Adjust line-height for vertical center due to border*/
     
 }
